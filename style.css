@@ -1,0 +1,8 @@
+body {
+    background-color: red;
+    color: white; /* Cambia el color del texto según sea necesario */
+    font-family: Arial, sans-serif; /* Ajusta la fuente según tus preferencias */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
