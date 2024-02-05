@@ -1,0 +1,4 @@
+#para evitar archivos .log
+*.log
+#para evitar archivos dentro de modules
+*modules/*
